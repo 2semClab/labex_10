@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-int row1,col1,row2,col2,sum=0;
+int row1,col1,row2,col2;
 printf("Enter the row and column size of the matrix 1 : ");
 scanf("%d%d", &row1, &col1);
 printf("Enter the row and column size of the matrix 2 : ");

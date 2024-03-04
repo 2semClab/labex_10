@@ -1,3 +1,4 @@
+//WAP to find the sum of elements of upper triangular
 #include<stdio.h>
 int main(){
 int row, sum=0;

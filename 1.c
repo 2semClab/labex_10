@@ -1,3 +1,4 @@
+//WAP to read a matrix and find the sum of the elements of that matrix
 #include<stdio.h>
 int main(){
 int row , col, sum=0;

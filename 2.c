@@ -1,3 +1,4 @@
+//WAP to add two matrices and display it.
 #include<stdio.h>
 int main(){
 int row1,col1,row2,col2,sum=0;

@@ -1,3 +1,4 @@
+//WAP to find out the transpose of a given matrix
 #include<stdio.h>
 int main(){
 int row,col;
